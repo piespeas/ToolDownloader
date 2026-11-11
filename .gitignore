@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+dist/*
+!dist/AcousticVoidDownloader.exe
+!dist/SHA256SUMS.txt
+
+# IDE and user files
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
