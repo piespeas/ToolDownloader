@@ -113,9 +113,5 @@ public static class Catalog
             "https://download.ericzimmermanstools.com/net/WxTCmd.zip",
             "https://download.ericzimmermanstools.com/net/AmcacheParser.zip",
         }),
-        new ToolGroup("Detect", new[]
-        {
-            "https://detect.ac/tool/ToolsDownloader++",
-        }),
     };
 }
